@@ -1,0 +1,34 @@
+    .main{
+        margin: 2%;
+}
+
+h1{
+    background-color: grey;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: honeydew;
+}
+
+.MainSec{
+    border: 2px solid aqua;
+    padding: 20px;
+}
+
+.author{
+    border: 2px dotted slateblue;
+    margin-left: 2%;
+    margin-right: 2%;
+    color:yellowgreen;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.detailText{
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+p{
+    text-align: justify;
+}
+
